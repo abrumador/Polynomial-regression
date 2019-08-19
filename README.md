@@ -1,2 +1,2 @@
 # Polynomial-regression
-Showing polynomial regression task on Us-house data set
+Showing polynomial regression task on US-house data set
